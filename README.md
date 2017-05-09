@@ -21,6 +21,7 @@ Welcome to Troy's functional programming labs prepared for the North Dallas .NET
 
 **What happens when you code using FP**
 
+Even Neil DeGrasse Tyson gives you respect!
 
 ![](https://img.memesuper.com/2ae89fb1ccde0b60e347c4b2ebaa8248_neil-degrasse-tyson-meme-memesuper-neil-degrasse-tyson-badass-meme_625-444.jpeg)
 
@@ -40,9 +41,11 @@ Most .NET developers already use some aspects of FP in tools such as LINQ, arrow
 ---
 
 **Levels of Abstraction**
-1. Abstraction level 0:  no functions
-2. Abstraction Level 1:  First Order Functions
-3. Abstraction Level 2: Higher Order Functions + Combinator Libraries
-4. Abstraction Level 3: Typeclasses, Abstracting over Combinator Libraries
+1.[ Abstraction level 0](./Level0.md):  no functions
+2. [Abstraction Level 1](./Level1.md):  First Order Functions
+3. [Abstraction Level 2](./Level2.md): Higher Order Functions + Combinator Libraries
+4. [Abstraction Level 3](./Level3.md): Typeclasses, Abstracting over Combinator Libraries
 5. Abstraction Level 4:  Abstracting over Typeclasses
 
+
+**Resources**
