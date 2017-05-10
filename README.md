@@ -38,6 +38,11 @@ the basics...
 
 Most .NET developers already use some aspects of FP in tools such as LINQ, arrow functions, collections, etc
 
+
+**Expressions**
+
+![expr](./Images/expression.jpg)
+
 ---
 
 **Levels of Abstraction**
@@ -51,6 +56,14 @@ Most .NET developers already use some aspects of FP in tools such as LINQ, arrow
 4. [Abstraction Level 3](./Level3.md): Typeclasses, Abstracting over Combinator Libraries
 
 5. Abstraction Level 4:  Abstracting over Typeclasses
+
+---
+
+
+
+**The languages**
+
+[Best F# Intro Ever](https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
 
 
 **Resources**
