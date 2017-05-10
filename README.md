@@ -67,3 +67,10 @@ Most .NET developers already use some aspects of FP in tools such as LINQ, arrow
 
 
 **Resources**
+
+
+**Advanced Labs**
+
+Create your own big data processor with map/reduce
+
+Integrate legacy and new code with closures
