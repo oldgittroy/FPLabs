@@ -73,7 +73,7 @@ Func<T,Tresult>
 
 ```
 
-Pure Function Lab
+[Pure Function Lab](./Immutability/Lab.md)
 
 ---
 
