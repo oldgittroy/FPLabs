@@ -1,5 +1,9 @@
 
 **Abstraction Level 1:  First Order Functions**
 
+Paradigm:  replace values with functions
 
-**Labs**
+![level1](./Images/Level1.jpg)
+
+Procedural Pascal type code
+Just functions, no classes yet

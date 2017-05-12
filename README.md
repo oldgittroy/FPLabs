@@ -43,6 +43,38 @@ Most .NET developers already use some aspects of FP in tools such as LINQ, arrow
 
 ![expr](./Images/expression.jpg)
 
+
+**Immutablity**
+
+Pure functions
+* No side effects
+* Returns the same output for the same input (singleton)
+
+![immutable](./Images/immutability.jpg)
+
+* Static functions = singletons
+* Most complexity and bugs in an application are a result of pervasive use of state and side effects of stateful code
+* Encapsulation
+
+
+**Anonymous Functions**
+
+Delegates
+
+Lambdas 
+```
+()=>
+  =>
+
+```  
+
+```
+Func<T,Tresult>
+
+```
+
+Pure Function Lab
+
 ---
 
 **Levels of Abstraction**
