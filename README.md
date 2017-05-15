@@ -29,6 +29,11 @@ Even Neil DeGrasse Tyson gives you respect!
 the basics...
 
 
+**Lists, Collections, Oh My!**
+
+[data](./Data/Data.md)
+
+
 **Abstraction = Using Functions**
 
 ![f(x)](./Images/bigfunction.jpg)
