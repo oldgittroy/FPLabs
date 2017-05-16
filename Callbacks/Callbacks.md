@@ -8,7 +8,7 @@ Mathematically think f(g(x))  where g(x) is a variable
 
 **Labs**
 
-[C# Lab](./Csharp.md)
+[C# Lab](./CSharp.md)
 
 [F# Lab](./FSharp.md)
 
