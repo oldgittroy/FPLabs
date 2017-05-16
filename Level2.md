@@ -9,6 +9,8 @@
 
 [Closures](./Closures/Closures.md)
 
+[Currying](./Currying/Curring.md)
+
 [Function Composition](./FunctionComposition/Composition.md)
 
 [Recursion](./Recursion/Recursion.md)
