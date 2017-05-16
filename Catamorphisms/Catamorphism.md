@@ -19,5 +19,5 @@ How Catamorphism Works
 
 A function that moves stuff from one container to another
 
-
+[cataamorphism](../Images/catamorphism.jpg)
 
