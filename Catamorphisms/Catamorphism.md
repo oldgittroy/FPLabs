@@ -1,5 +1,7 @@
 **Catamorphisms**
 
+A catamorphism is a functional concept that replaces looping.
+
 * Map
 * Reduce
 
@@ -19,5 +21,13 @@ How Catamorphism Works
 
 A function that moves stuff from one container to another
 
-[cataamorphism](../Images/catamorphism.jpg)
+![cataamorphism](../Images/catamorphism.jpg)
 
+
+**Labs**
+
+[C# Catamorphisms](./CSharp.md)
+
+[F# Catamorphisms](./FSharp.md)
+
+[JavaScript Catamorphisms](./JS.md)

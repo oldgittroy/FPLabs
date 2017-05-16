@@ -13,6 +13,11 @@
 
 [Function Composition](./FunctionComposition/Composition.md)
 
+
+[Advanced Lab:  Domain Driven Design](./DDD/Lab.md)
+
+---
+
 [Recursion](./Recursion/Recursion.md)
 
 [Generators](./Generators/Generators.md)
