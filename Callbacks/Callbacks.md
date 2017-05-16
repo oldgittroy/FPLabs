@@ -2,6 +2,8 @@ Callbacks
 
 A function that is passed as a parameter into another function
 
+* A bit like dependency injection
+
 ![cb](../Images/callback.jpg)
 
 Mathematically think f(g(x))  where g(x) is a variable

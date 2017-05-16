@@ -10,6 +10,8 @@ From High School
 Now, with functions
 F(x,y) = f(x)*g(y)
 
+
+Mathematically, ALL functions factor into functions with a single parameter!
 ---
 
 Basically nested closures  var curry = x => y => x+y
