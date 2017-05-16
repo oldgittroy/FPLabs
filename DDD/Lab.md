@@ -77,12 +77,14 @@ Func<string, int> SKUCreate = (sku, id) =>
 
 5.  Compose the functions into a closure
 
+```
 Func<double, string, int, int> newModelCreate = (price, customer, sku) =>
 {
     int id = legacyModelCreate(price, customer);
     return SKUCreate(sku, id);
 }
 
+```
 This satisfies the make a new order with sku task
 
 6.  On your own, use closures to update existing orders with a sku
