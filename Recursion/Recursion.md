@@ -1,7 +1,7 @@
 **Recursion**
 
-Replace for, foreach, etc with 
-Tail Calls – prevent the stack from blowing up
+* Replace for, foreach, etc 
+* Tail Calls – prevent the stack from blowing up
 
 ![recursion](../Images/recursion.jpg)
 
