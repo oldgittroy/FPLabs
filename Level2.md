@@ -9,7 +9,7 @@
 
 [Closures](./Closures/Closures.md)
 
-[Currying](./Currying/Curring.md)
+[Currying](./Currying/Currying.md)
 
 [Function Composition](./FunctionComposition/Composition.md)
 
