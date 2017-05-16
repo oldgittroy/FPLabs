@@ -2,6 +2,8 @@
 Functional programming labs for C#/LINQ, F#, and JS
 
 Welcome to Troy's functional programming labs prepared for the North Dallas .NET User Group.  In these labs we will explore the concepts behind functional programming and apply them using C#, JavaScript, and F#.
+
+ Warning: not all of the code in the examples will compile.  Sometimes this is deliberate, sometimes I may claim its deliberate!
 ---
 
 **Why Do We Care?**
