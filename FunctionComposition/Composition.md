@@ -29,7 +29,11 @@ Inheritance = pass a function into the closure
 
 **Labs **
 
+[C# Composition](./CSharp.md)
 
+[F# Composition](./FSharp.md)
+
+[JavaScript Composition](./JS.md)
 
 
 

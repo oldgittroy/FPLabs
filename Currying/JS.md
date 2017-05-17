@@ -35,3 +35,9 @@ function allCurry(z) {
 }
 ```
 
+4.  Now call the full curried function in that weird JavaScript way
+
+```
+allCurry(1)(2)(3);
+
+```
