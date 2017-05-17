@@ -26,14 +26,8 @@
 
 [Catamorphisms](./Catamorphisms/Catamorphism.md)
 
-**What are Combinator Libraries?**
-*  LINQ is an example of a combinator library
+[Advanced Lab:  Porting OO to FP](./Porting/Lab.md)
 
----
-**Porting OO Code to HOF**
+[Advanced Lab:  LINQ](./LINQ/Lab.md)
 
-1. State variables -> Immutable variables + Pure Functions
-2. Classes and Methods -> Closures and Functions
-3. Interfaces and Inheritance -> HoFs
-4. Loops -> Catamorphisms and Recursion
 
