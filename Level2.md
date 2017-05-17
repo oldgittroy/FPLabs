@@ -11,6 +11,8 @@
 
 [Currying](./Currying/Currying.md)
 
+[Advanced Lab:  Unit Testing](./UnitTest/Lab.md)
+
 [Function Composition](./FunctionComposition/Composition.md)
 
 
