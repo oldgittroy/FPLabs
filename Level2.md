@@ -30,4 +30,25 @@
 
 [Advanced Lab:  LINQ](./LINQ/Lab.md)
 
+---
 
+**Parametric Polymorphism**
+
+* AKA Generics
+* One interface, multiple types
+
+
+```
+<T>
+
+F(<T>)
+
+```
+Supported in .NET by the CLR
+
+
+Functions can also be represented as interfaces
+```
+IEnumerable<T>
+
+```

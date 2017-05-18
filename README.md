@@ -3,7 +3,7 @@ Functional programming labs for C#/LINQ, F#, and JS
 
 Welcome to Troy's functional programming labs prepared for the North Dallas .NET User Group.  In these labs we will explore the concepts behind functional programming and apply them using C#, JavaScript, and F#.
 
- Warning: not all of the code in the examples will compile.  Sometimes this is deliberate, sometimes I may claim its deliberate!
+ Warning: not all of the code in the examples will compile.  Sometimes this is deliberate, sometimes I just say its deliberate!
 ---
 
 **Why Do We Care?**
@@ -21,6 +21,13 @@ Welcome to Troy's functional programming labs prepared for the North Dallas .NET
 
 ---
 
+**Where did this come from?**
+
+[Generations of Computing](./Generations/Generations.md)
+
+
+---
+
 **What happens when you code using FP**
 
 Even Neil DeGrasse Tyson gives you respect!
@@ -35,6 +42,7 @@ the basics...
 
 [data](./Data/Data.md)
 
+---
 
 **Abstraction = Using Functions**
 
@@ -111,5 +119,3 @@ Func<T,Tresult>
 **Advanced Labs**
 
 Create your own big data processor with map/reduce
-
-Integrate legacy and new code with closures

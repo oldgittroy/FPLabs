@@ -8,3 +8,5 @@ Code that is generic across multiple combinator libraries
 
 
 Paradigm:  replace types with functions
+
+
