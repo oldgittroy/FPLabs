@@ -7,6 +7,10 @@
 
 ---
 
+**Advanced Lab**
+
+1.  Convert stateful data into immutable data
+
 
 
 
