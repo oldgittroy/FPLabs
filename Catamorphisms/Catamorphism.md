@@ -1,6 +1,6 @@
 **Catamorphisms**
 
-A catamorphism is a functional concept that replaces looping.
+A catamorphism is a functional concept that replaces looping.  Replace all of your fors, whiles, and do loops with:
 
 * Map
 * Reduce

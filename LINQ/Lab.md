@@ -21,10 +21,16 @@ LINQ | Functional | What it does
  Select | Map | moves data from one real to another
 From | List/IEnumerable/[] | specifies a collection of data
  Where | Filter | pulls in a subset of data
- Aggregate/Sum | Reduce | 
- All | Every | 
- Any | Sort | 
- OrderBy | Sort | 
- SelectMany | Bind | 
+ Aggregate/Sum | Reduce | flattens a data structure
+ All | Every | gets everything in a set
+ Any | Sort | filters data in a set
+ OrderBy | Sort | orders data in a set
+ SelectMany | Bind | selects over multiple combinators
+
+ ---
+
+** Advanced Labs**
+
+
 
  

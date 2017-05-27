@@ -22,3 +22,33 @@ Func<int, int> add = x => x + 1;
 var list 2 = list.select(add) 
 
 ```
+
+3. Mappable data in C# 
+
+Instead of a loop with statements inside, map iterates over the data and applies its callback function to each item.
+
+
+Sound familiar?  like perhaps...IEnumerable?
+
+
+```
+Let's start with a collection
+
+List<int> mylist = new List<int>();
+mylist.Add(1);
+mylist.Add(2);
+mylist.Add(3);
+
+var mylist2 = mylist.select(add);
+
+foreach(var item in mylist2)
+{
+    console.log(item);
+}
+
+```
+
+The result is a new list, mylist2, with elements: 2, 3,4.  The map code is much more compact than a for loop.
+
+4.  Replace the mylist.Add calls with insert
+

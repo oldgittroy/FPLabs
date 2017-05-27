@@ -25,6 +25,9 @@ Just like the instance of a class
 Polymorphism = pass a function into the closure
 Inheritance = pass a function into the closure
 
+
+OOP can replace an if with polymorphism to achieve a more abstract control flow.  Some OO purists don't use ifs at all.  Polymorphism through function composition can also replace the use of if statements.
+
 ---
 
 **Labs **

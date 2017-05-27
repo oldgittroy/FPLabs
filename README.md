@@ -115,6 +115,7 @@ Func<T,Tresult>
 
 **Resources**
 
+[Programming without IFs](http://michaelfeathers.typepad.com/michael_feathers_blog/2013/11/unconditional-programming.html)
 
 **Advanced Labs**
 
