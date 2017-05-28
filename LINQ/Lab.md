@@ -5,7 +5,7 @@
 3. Only use function application and previously defined combinators
 
 
-LINQ is an example of a combinator library
+_LINQ is an example of a combinator library_
 
 * Pure Functions:  x=>x.prop
 * HoFs:  Where(x=>x.prop)
@@ -30,6 +30,8 @@ From | List/IEnumerable/[] | specifies a collection of data
  ---
 
 ** Advanced Labs**
+
+Catamorphisms with Select
 
 
 

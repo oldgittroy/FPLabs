@@ -113,6 +113,8 @@ Func<T,Tresult>
 [Best F# Intro Ever](https://fsharpforfunandprofit.com/posts/fsharp-in-60-seconds/)
 
 
+[Level 3 Functional Programming Site](https://wiki.haskell.org/Typeclassopedia)
+
 **Resources**
 
 [Programming without IFs](http://michaelfeathers.typepad.com/michael_feathers_blog/2013/11/unconditional-programming.html)
