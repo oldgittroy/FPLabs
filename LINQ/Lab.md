@@ -47,7 +47,7 @@ where product.name == "Ultra Gobstopper"
 ---
 ** Advanced Labs**
 
-[Closure with LINQ](./Closure.md)
-[Catamorphisms with Select](./Catamorphism.md)
-[F# vs LINQ](./FSharp.md)
+* [Closure with LINQ](./Closure.md)
+* [Catamorphisms with Select](./Catamorphism.md)
+* [F# vs LINQ](./FSharp.md)
 
