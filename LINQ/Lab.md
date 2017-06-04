@@ -16,9 +16,14 @@ _LINQ is an example of a combinator library_
 
 ---
 
+**Domain Specific Languages**
+
+Describe what to do to the data, rather than what the data is.  OO = nouns, FP = verbs.
+
+
 LINQ | Functional | What it does
 ---------|----------|---------
- Select | Map | moves data from one real to another
+ Select | Map | moves data from one domain to another
 From | List/IEnumerable/[] | specifies a collection of data
  Where | Filter | pulls in a subset of data
  Aggregate/Sum | Reduce | flattens a data structure
@@ -29,10 +34,20 @@ From | List/IEnumerable/[] | specifies a collection of data
 
  ---
 
+**LINQ example**
+
+Looks like SQL but think of it as a nice way to combine expressions.
+
+```
+from products select product.ID 
+where product.name == "Ultra Gobstopper"
+
+```
+
+---
 ** Advanced Labs**
 
-Catamorphisms with Select
+[Closure with LINQ](./Closure.md)
+[Catamorphisms with Select](./Catamorphism.md)
+[F# vs LINQ](./FSharp.md)
 
-
-
- 
