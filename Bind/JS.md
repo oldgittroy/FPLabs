@@ -5,8 +5,10 @@
 ```
 function MyClass() {
     return {
-        add: function(x, y) {
-            return x + y;
+        first: "",
+        last: "",
+        add: function() {
+            return this.first + this.last;
         },
         subtract: function(x,y){
             return x -y;
@@ -27,6 +29,6 @@ var name = {
 3.  bind the data to the function
 
 ```
-var fullName = MyClass.add.bind(name);
+var fullName = MyClass().add.bind(name);
 
 ```
